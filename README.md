@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
-  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg">
+  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg">
 
 ## 🚀 Selamat Datang di Repositori Saya! 🚀
 
